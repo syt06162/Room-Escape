@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - Point
+  - ENEMY_3
+  - ENEMY_2
+  - ENEMY_1
+  - Enemy_7
+  - ENEMY_4
+  - ENEMY_2_B
+  - ENEMY_1_B
+  - Meteor_1
+  - ENEMY_3_B
+  - PLAYER_B
+  - WALL
+  - PLAYER
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - OverUI
+  - Gaming
+  - PlayerTeam
+  - EnemyTeam
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
